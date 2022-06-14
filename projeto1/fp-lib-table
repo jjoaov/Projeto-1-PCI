@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Projeto1")(type "KiCad")(uri "${KIPRJMOD}/Projeto1.pretty")(options "")(descr ""))
+)
